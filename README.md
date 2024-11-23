@@ -1,3 +1,7 @@
+## Stardew Valley Online Save Editor
+
+Open source web-based save editor for Stardew Valley. Contributions welcome.
+
 ## Features
 
 - [x] Edit player/farm name/money
